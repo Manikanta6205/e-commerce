@@ -15,24 +15,24 @@ Notifications: Visual notifications pop up when cart actions are performed.
 Cart Summary: Shows total price, coupon discount, platform fee, shipping charges, and final amount.
 
 Project Structure
-gdgc/
+gdgc/ \
 │
-├── public/              # Public assets
-├── src/                 # Source code folder
-│   ├── assets/          # Static images, icons, etc.
-│   ├── components/      # React components
-│   │   ├── Cart.css     # Cart component styling
-│   │   └── Cart.jsx     # Cart functionality component
-│   ├── App.jsx          # Main app component
-│   ├── App.css          # Global styles
-│   ├── index.css        # Index page CSS
-│   └── main.jsx         # Application entry point
-├── .gitignore           # Git ignore rules
-├── eslint.config.js     # ESLint configuration
-├── index.html           # Main HTML file
-├── package.json         # Dependencies and scripts
-├── package-lock.json    # Dependency lock file
-└── vite.config.js       # Vite configuration
+├── public/              # Public assets \
+├── src/                 # Source code folder \
+│   ├── assets/          # Static images, icons, etc. \
+│   ├── components/      # React components \
+│   │   ├── Cart.css     # Cart component styling \
+│   │   └── Cart.jsx     # Cart functionality component \
+│   ├── App.jsx          # Main app component \
+│   ├── App.css          # Global styles \
+│   ├── index.css        # Index page CSS \
+│   └── main.jsx         # Application entry point \
+├── .gitignore           # Git ignore rules \
+├── eslint.config.js     # ESLint configuration \
+├── index.html           # Main HTML file \
+├── package.json         # Dependencies and scripts \
+├── package-lock.json    # Dependency lock file \
+└── vite.config.js       # Vite configuration 
 Installation and Setup
 Prerequisites
 Ensure you have the following:
